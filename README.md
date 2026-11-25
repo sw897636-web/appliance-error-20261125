@@ -1,8 +1,8 @@
 # The Funniest Honest Appliance Error
 
-![Rank](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/sw897636-web/appliance-error-20261125/rank.svg)
-![Rating](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/sw897636-web/appliance-error-20261125/rating.svg)
-![Prize](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/sw897636-web/appliance-error-20261125/prize.svg)
+[![make.fun](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450)
+[![rank](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/sw897636-web/appliance-error-20261125/rank.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450)
+[![reward](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/sw897636-web/appliance-error-20261125/reward.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450)
 
 Entry for the make.fun bounty [The Funniest Honest Appliance Error](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450).
 
